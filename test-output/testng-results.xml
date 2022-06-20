@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="18" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-20T00:22:07 EDT" name="Suite BFamily" finished-at="2022-06-20T00:22:20 EDT" duration-ms="12324">
+    <groups>
+    </groups>
+    <test started-at="2022-06-20T00:22:07 EDT" name="TestB" finished-at="2022-06-20T00:22:11 EDT" duration-ms="4120">
+      <class name="b_Family.B">
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:b_Family.B@1da2cb77]" started-at="2022-06-20T00:22:07 EDT" name="init" finished-at="2022-06-20T00:22:07 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=B.testB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.B@1da2cb77] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.B@1da2cb77]" started-at="2022-06-20T00:22:07 EDT" name="testB" data-provider="getDataBFamily" finished-at="2022-06-20T00:22:09 EDT" duration-ms="2013" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:b_Family.B@1da2cb77]" started-at="2022-06-20T00:22:09 EDT" name="exiting" finished-at="2022-06-20T00:22:09 EDT" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:b_Family.B@1da2cb77]" started-at="2022-06-20T00:22:09 EDT" name="init" finished-at="2022-06-20T00:22:09 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=B.testB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.B@1da2cb77] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.B@1da2cb77]" started-at="2022-06-20T00:22:09 EDT" name="testB" data-provider="getDataBFamily" finished-at="2022-06-20T00:22:11 EDT" duration-ms="2017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Python]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:b_Family.B@1da2cb77]" started-at="2022-06-20T00:22:11 EDT" name="exiting" finished-at="2022-06-20T00:22:11 EDT" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+      </class> <!-- b_Family.B -->
+    </test> <!-- TestB -->
+    <test started-at="2022-06-20T00:22:11 EDT" name="TestBB" finished-at="2022-06-20T00:22:15 EDT" duration-ms="4066">
+      <class name="b_Family.BB">
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:b_Family.BB@66d3eec0]" started-at="2022-06-20T00:22:11 EDT" name="init" finished-at="2022-06-20T00:22:11 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=BB.testBB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.BB@66d3eec0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testBB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.BB@66d3eec0]" started-at="2022-06-20T00:22:11 EDT" name="testBB" data-provider="getDataBFamily" finished-at="2022-06-20T00:22:13 EDT" duration-ms="2004" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chemistry]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBB -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:b_Family.BB@66d3eec0]" started-at="2022-06-20T00:22:13 EDT" name="exiting" finished-at="2022-06-20T00:22:13 EDT" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:b_Family.BB@66d3eec0]" started-at="2022-06-20T00:22:13 EDT" name="init" finished-at="2022-06-20T00:22:13 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=BB.testBB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.BB@66d3eec0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testBB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.BB@66d3eec0]" started-at="2022-06-20T00:22:13 EDT" name="testBB" data-provider="getDataBFamily" finished-at="2022-06-20T00:22:15 EDT" duration-ms="2008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PHP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBB -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:b_Family.BB@66d3eec0]" started-at="2022-06-20T00:22:15 EDT" name="exiting" finished-at="2022-06-20T00:22:15 EDT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+      </class> <!-- b_Family.BB -->
+    </test> <!-- TestBB -->
+    <test started-at="2022-06-20T00:22:15 EDT" name="TestBBB" finished-at="2022-06-20T00:22:20 EDT" duration-ms="4096">
+      <class name="b_Family.BBB">
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:b_Family.BBB@5d7148e2]" started-at="2022-06-20T00:22:15 EDT" name="init" finished-at="2022-06-20T00:22:15 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=BBB.testBBB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.BBB@5d7148e2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testBBB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.BBB@5d7148e2]" started-at="2022-06-20T00:22:15 EDT" name="testBBB" data-provider="getDataBFamily" finished-at="2022-06-20T00:22:17 EDT" duration-ms="2015" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Civics-1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBBB -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:b_Family.BBB@5d7148e2]" started-at="2022-06-20T00:22:17 EDT" name="exiting" finished-at="2022-06-20T00:22:17 EDT" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:b_Family.BBB@5d7148e2]" started-at="2022-06-20T00:22:17 EDT" name="init" finished-at="2022-06-20T00:22:17 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=BBB.testBBB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.BBB@5d7148e2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testBBB(java.lang.String, java.lang.String)[pri:0, instance:b_Family.BBB@5d7148e2]" started-at="2022-06-20T00:22:17 EDT" name="testBBB" data-provider="getDataBFamily" finished-at="2022-06-20T00:22:20 EDT" duration-ms="2011" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Economics-1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBBB -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:b_Family.BBB@5d7148e2]" started-at="2022-06-20T00:22:20 EDT" name="exiting" finished-at="2022-06-20T00:22:20 EDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+      </class> <!-- b_Family.BBB -->
+    </test> <!-- TestBBB -->
+  </suite> <!-- Suite BFamily -->
+  <suite started-at="2022-06-20T00:22:32 EDT" name="Suite CompleteFamily" finished-at="2022-06-20T00:22:32 EDT" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Suite CompleteFamily -->
+  <suite started-at="2022-06-20T00:21:49 EDT" name="Suite AFamily" finished-at="2022-06-20T00:22:07 EDT" duration-ms="17897">
+    <groups>
+    </groups>
+    <test started-at="2022-06-20T00:21:49 EDT" name="TestA" finished-at="2022-06-20T00:21:55 EDT" duration-ms="5347">
+      <class name="a_Family.A">
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:a_Family.A@24fcf36f]" started-at="2022-06-20T00:21:49 EDT" name="init" finished-at="2022-06-20T00:21:50 EDT" duration-ms="601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=A.testA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.A@24fcf36f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.A@24fcf36f]" started-at="2022-06-20T00:21:50 EDT" name="testA" data-provider="getDataAFamily" finished-at="2022-06-20T00:21:52 EDT" duration-ms="2046" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mathematics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:a_Family.A@24fcf36f]" started-at="2022-06-20T00:21:52 EDT" name="exiting" finished-at="2022-06-20T00:21:53 EDT" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:a_Family.A@24fcf36f]" started-at="2022-06-20T00:21:53 EDT" name="init" finished-at="2022-06-20T00:21:53 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=A.testA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.A@24fcf36f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.A@24fcf36f]" started-at="2022-06-20T00:21:53 EDT" name="testA" data-provider="getDataAFamily" finished-at="2022-06-20T00:21:55 EDT" duration-ms="2020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sceince]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:a_Family.A@24fcf36f]" started-at="2022-06-20T00:21:55 EDT" name="exiting" finished-at="2022-06-20T00:21:55 EDT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+      </class> <!-- a_Family.A -->
+    </test> <!-- TestA -->
+    <test started-at="2022-06-20T00:21:55 EDT" name="TestAA" finished-at="2022-06-20T00:21:59 EDT" duration-ms="4180">
+      <class name="a_Family.AA">
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:a_Family.AA@4d465b11]" started-at="2022-06-20T00:21:55 EDT" name="init" finished-at="2022-06-20T00:21:55 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AA.testAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AA@4d465b11] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AA@4d465b11]" started-at="2022-06-20T00:21:55 EDT" name="testAA" data-provider="getDataAFamily" finished-at="2022-06-20T00:21:57 EDT" duration-ms="2020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Biology]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAA -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:a_Family.AA@4d465b11]" started-at="2022-06-20T00:21:57 EDT" name="exiting" finished-at="2022-06-20T00:21:57 EDT" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:a_Family.AA@4d465b11]" started-at="2022-06-20T00:21:57 EDT" name="init" finished-at="2022-06-20T00:21:57 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AA.testAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AA@4d465b11] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AA@4d465b11]" started-at="2022-06-20T00:21:57 EDT" name="testAA" data-provider="getDataAFamily" finished-at="2022-06-20T00:21:59 EDT" duration-ms="2014" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[History]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAA -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:a_Family.AA@4d465b11]" started-at="2022-06-20T00:21:59 EDT" name="exiting" finished-at="2022-06-20T00:21:59 EDT" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+      </class> <!-- a_Family.AA -->
+    </test> <!-- TestAA -->
+    <test started-at="2022-06-20T00:21:59 EDT" name="TestAAA" finished-at="2022-06-20T00:22:03 EDT" duration-ms="4117">
+      <class name="a_Family.AAA">
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:a_Family.AAA@28f2a10f]" started-at="2022-06-20T00:21:59 EDT" name="init" finished-at="2022-06-20T00:21:59 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AAA.testAAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AAA@28f2a10f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testAAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AAA@28f2a10f]" started-at="2022-06-20T00:21:59 EDT" name="testAAA" data-provider="getDataAFamily" finished-at="2022-06-20T00:22:01 EDT" duration-ms="2024" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Civics]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [Title] but found [Title 1]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [Title] but found [Title 1]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)
+at a_Family.AAA.testAAA(AAA.java:20)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1182)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAAA -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:a_Family.AAA@28f2a10f]" started-at="2022-06-20T00:22:01 EDT" name="exiting" finished-at="2022-06-20T00:22:01 EDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:a_Family.AAA@28f2a10f]" started-at="2022-06-20T00:22:01 EDT" name="init" finished-at="2022-06-20T00:22:01 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AAA.testAAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AAA@28f2a10f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testAAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AAA@28f2a10f]" started-at="2022-06-20T00:22:01 EDT" name="testAAA" data-provider="getDataAFamily" finished-at="2022-06-20T00:22:03 EDT" duration-ms="2010" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Economics]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [Title] but found [Title 1]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [Title] but found [Title 1]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)
+at a_Family.AAA.testAAA(AAA.java:20)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1182)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAAA -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:a_Family.AAA@28f2a10f]" started-at="2022-06-20T00:22:03 EDT" name="exiting" finished-at="2022-06-20T00:22:03 EDT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+      </class> <!-- a_Family.AAA -->
+    </test> <!-- TestAAA -->
+    <test started-at="2022-06-20T00:22:03 EDT" name="TestAAAA" finished-at="2022-06-20T00:22:07 EDT" duration-ms="4124">
+      <class name="a_Family.AAAA">
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:a_Family.AAAA@169e6180]" started-at="2022-06-20T00:22:03 EDT" name="init" finished-at="2022-06-20T00:22:03 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AAAA.testAAAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AAAA@169e6180] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testAAAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AAAA@169e6180]" started-at="2022-06-20T00:22:03 EDT" name="testAAAA" data-provider="getDataAFamily" finished-at="2022-06-20T00:22:05 EDT" duration-ms="2019" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[logic]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAAAA -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:a_Family.AAAA@169e6180]" started-at="2022-06-20T00:22:05 EDT" name="exiting" finished-at="2022-06-20T00:22:05 EDT" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:a_Family.AAAA@169e6180]" started-at="2022-06-20T00:22:05 EDT" name="init" finished-at="2022-06-20T00:22:05 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AAAA.testAAAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AAAA@169e6180] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testAAAA(java.lang.String, java.lang.String)[pri:0, instance:a_Family.AAAA@169e6180]" started-at="2022-06-20T00:22:05 EDT" name="testAAAA" data-provider="getDataAFamily" finished-at="2022-06-20T00:22:07 EDT" duration-ms="2011" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Drawing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAAAA -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:a_Family.AAAA@169e6180]" started-at="2022-06-20T00:22:07 EDT" name="exiting" finished-at="2022-06-20T00:22:07 EDT" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+      </class> <!-- a_Family.AAAA -->
+    </test> <!-- TestAAAA -->
+  </suite> <!-- Suite AFamily -->
+  <suite started-at="2022-06-20T00:22:20 EDT" name="Suite CFamily" finished-at="2022-06-20T00:22:32 EDT" duration-ms="12297">
+    <groups>
+    </groups>
+    <test started-at="2022-06-20T00:22:20 EDT" name="TestC" finished-at="2022-06-20T00:22:24 EDT" duration-ms="4109">
+      <class name="c_Family.C">
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:c_Family.C@4f2b503c]" started-at="2022-06-20T00:22:20 EDT" name="init" finished-at="2022-06-20T00:22:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=C.testC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.C@4f2b503c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.C@4f2b503c]" started-at="2022-06-20T00:22:20 EDT" name="testC" data-provider="getDataCFamily" finished-at="2022-06-20T00:22:22 EDT" duration-ms="2015" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Javascript]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:c_Family.C@4f2b503c]" started-at="2022-06-20T00:22:22 EDT" name="exiting" finished-at="2022-06-20T00:22:22 EDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:c_Family.C@4f2b503c]" started-at="2022-06-20T00:22:22 EDT" name="init" finished-at="2022-06-20T00:22:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=C.testC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.C@4f2b503c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.C@4f2b503c]" started-at="2022-06-20T00:22:22 EDT" name="testC" data-provider="getDataCFamily" finished-at="2022-06-20T00:22:24 EDT" duration-ms="2013" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:c_Family.C@4f2b503c]" started-at="2022-06-20T00:22:24 EDT" name="exiting" finished-at="2022-06-20T00:22:24 EDT" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+      </class> <!-- c_Family.C -->
+    </test> <!-- TestC -->
+    <test started-at="2022-06-20T00:22:24 EDT" name="TestCC" finished-at="2022-06-20T00:22:28 EDT" duration-ms="4071">
+      <class name="c_Family.CC">
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:c_Family.CC@c88a337]" started-at="2022-06-20T00:22:24 EDT" name="init" finished-at="2022-06-20T00:22:24 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=CC.testCC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.CC@c88a337] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testCC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.CC@c88a337]" started-at="2022-06-20T00:22:24 EDT" name="testCC" data-provider="getDataCFamily" finished-at="2022-06-20T00:22:26 EDT" duration-ms="2014" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chemistry-2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCC -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:c_Family.CC@c88a337]" started-at="2022-06-20T00:22:26 EDT" name="exiting" finished-at="2022-06-20T00:22:26 EDT" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:c_Family.CC@c88a337]" started-at="2022-06-20T00:22:26 EDT" name="init" finished-at="2022-06-20T00:22:26 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=CC.testCC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.CC@c88a337] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testCC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.CC@c88a337]" started-at="2022-06-20T00:22:26 EDT" name="testCC" data-provider="getDataCFamily" finished-at="2022-06-20T00:22:28 EDT" duration-ms="2006" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C++]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCC -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:c_Family.CC@c88a337]" started-at="2022-06-20T00:22:28 EDT" name="exiting" finished-at="2022-06-20T00:22:28 EDT" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+      </class> <!-- c_Family.CC -->
+    </test> <!-- TestCC -->
+    <test started-at="2022-06-20T00:22:28 EDT" name="TestCCC" finished-at="2022-06-20T00:22:32 EDT" duration-ms="4079">
+      <class name="c_Family.CCC">
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:c_Family.CCC@5b03b9fe]" started-at="2022-06-20T00:22:28 EDT" name="init" finished-at="2022-06-20T00:22:28 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=CCC.testCCC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.CCC@5b03b9fe] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testCCC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.CCC@5b03b9fe]" started-at="2022-06-20T00:22:28 EDT" name="testCCC" data-provider="getDataCFamily" finished-at="2022-06-20T00:22:30 EDT" duration-ms="2007" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Civics-3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCCC -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:c_Family.CCC@5b03b9fe]" started-at="2022-06-20T00:22:30 EDT" name="exiting" finished-at="2022-06-20T00:22:30 EDT" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+        <test-method is-config="true" signature="init(org.testng.ITestResult)[pri:0, instance:c_Family.CCC@5b03b9fe]" started-at="2022-06-20T00:22:30 EDT" name="init" finished-at="2022-06-20T00:22:30 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=CCC.testCCC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.CCC@5b03b9fe] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testCCC(java.lang.String, java.lang.String)[pri:0, instance:c_Family.CCC@5b03b9fe]" started-at="2022-06-20T00:22:30 EDT" name="testCCC" data-provider="getDataCFamily" finished-at="2022-06-20T00:22:32 EDT" duration-ms="2008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Economics-3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCCC -->
+        <test-method is-config="true" signature="exiting()[pri:0, instance:c_Family.CCC@5b03b9fe]" started-at="2022-06-20T00:22:32 EDT" name="exiting" finished-at="2022-06-20T00:22:32 EDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exiting -->
+      </class> <!-- c_Family.CCC -->
+    </test> <!-- TestCCC -->
+  </suite> <!-- Suite CFamily -->
+</testng-results>
